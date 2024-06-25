@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-_dollarPerHour = 20
+_dollarPerHour = 15
 _hoursWorkedByMonth = 140
 caDollarValue = 3.86
 
